@@ -13,7 +13,7 @@ My solutions to data structures and algorithms problems, written in Python while
 
 | Topic | Folder | Solved |
 | --- | --- | --- |
-| Arrays and hashing | [01-arrays-hashing](01-arrays-hashing) | 1 |
+| Arrays and hashing | [01-arrays-hashing](01-arrays-hashing) | 2 |
 | Two pointers | [02-two-pointers](02-two-pointers) | 0 |
 | Sliding window | [03-sliding-window](03-sliding-window) | 0 |
 | Stack | [04-stack](04-stack) | 0 |
@@ -31,9 +31,4 @@ Newest first.
 | Date | Problem | Topic | Difficulty | Time | Space | Without hints |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-02 | [1. Two Sum](01-arrays-hashing/0001-two-sum.py) | Arrays and hashing | Easy | O(n^2) | O(1) | Mostly |
-
-## Adding a solution
-
-1. Copy [TEMPLATE.py](TEMPLATE.py) into the topic folder, named like `0001-two-sum.py`.
-2. Paste my accepted solution and fill in the header.
-3. Add a row to the table above and update the topic count.
+| 2026-11-02 | [217. Contains Duplicate](01-arrays-hashing/0217-contains-duplicate.py) | Arrays and hashing | Easy | O(n) | O(n) | Yes |
