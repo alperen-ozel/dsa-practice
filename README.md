@@ -30,6 +30,7 @@ Newest first.
 
 | Date | Problem | Topic | Difficulty | Time | Space | Without hints |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-02 | [1. Two Sum](01-arrays-hashing/0001-two-sum.py) | Arrays and hashing | Easy | O(n^2) | O(1) | Mostly |
 
 ## Adding a solution
 
