@@ -13,7 +13,7 @@ My solutions to data structures and algorithms problems, written in Python while
 
 | Topic | Folder | Solved |
 | --- | --- | --- |
-| Arrays and hashing | [01-arrays-hashing](01-arrays-hashing) | 0 |
+| Arrays and hashing | [01-arrays-hashing](01-arrays-hashing) | 1 |
 | Two pointers | [02-two-pointers](02-two-pointers) | 0 |
 | Sliding window | [03-sliding-window](03-sliding-window) | 0 |
 | Stack | [04-stack](04-stack) | 0 |
